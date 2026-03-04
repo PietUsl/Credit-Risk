@@ -1,0 +1,22 @@
+{
+  "models":
+    [
+      {
+        "title": "Llama 3.2 (Analisi Generale)",
+        "provider": "ollama",
+        "model": "llama3.2:latest",
+      },
+      {
+        "title": "Qwen Coder (Programmazione)",
+        "provider": "ollama",
+        "model": "qwen2.5-coder:1.5b",
+      },
+    ],
+  "tabAutocompleteModel":
+    {
+      "title": "Starcoder (Suggerimenti)",
+      "provider": "ollama",
+      "model": "starcoder2:3b",
+    },
+  "embeddingsProvider": { "provider": "ollama", "model": "nomic-embed-text" },
+}
