@@ -5,6 +5,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-lightgrey)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Predictive%20Modeling-green)
 
+[To see the code on Device](https://nbviewer.org/github/PietUsl/Credit-Risk/blob/main/scripts/credit_risk.ipynb)
+
 ## 📌 Project Overview
 
 Credit risk assessment is a crucial task for financial institutions. This project aims to build a robust machine learning and statistical pipeline to predict the probability of default (PoD) for loan applicants.
